@@ -1,0 +1,4 @@
+Mango is the king of fruits
+Grapes are small fruits
+i am appending this line
+This is a new line
