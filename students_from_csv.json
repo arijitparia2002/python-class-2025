@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Alice",
+        "Age": "17",
+        "Grade": "A"
+    },
+    {
+        "Name": "Bob",
+        "Age": "18",
+        "Grade": "B"
+    },
+    {
+        "Name": "Arijit",
+        "Age": "19",
+        "Grade": "A"
+    },
+    {
+        "Name": "Charlie",
+        "Age": "17",
+        "Grade": "C"
+    },
+    {
+        "Name": "Diana",
+        "Age": "18",
+        "Grade": "B"
+    }
+]

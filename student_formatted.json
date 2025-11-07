@@ -1,0 +1,15 @@
+{
+    "name": "Charlie",
+    "age": 17,
+    "grade": "12th",
+    "subjects": [
+        "Biology",
+        "Chemistry",
+        "Physics"
+    ],
+    "scores": {
+        "biology": 90,
+        "chemistry": 88,
+        "physics": 92
+    }
+}
