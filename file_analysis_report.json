@@ -1,0 +1,8 @@
+{
+    "file_name": "vegetables.txt",
+    "total_words": 10,
+    "unique_words": 9,
+    "longest_word": "vegetable",
+    "most_common_word": "is",
+    "most_common_word_frequency": 2
+}

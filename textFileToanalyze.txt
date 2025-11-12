@@ -1,0 +1,186 @@
+Back in 2022, three friends and I made a little first-person game in Unreal Engine where you play as a ghost investigating your own murder. It was the final project of our master’s programme at Trinity College Dublin.
+
+We got a lot further than we expected, and our game went over better than we expected at the public showcase that year.
+
+From the start, we talked about getting it on Steam as a lofty goal, but now it seemed like we had reason to commit to it.
+
+One of our professors kindly gave us support to finish the game through his company Haunted Planet in 2023, including an incredible score from the composer, Svetlana Rudenko. (If you read this, thanks again, Mads!)
+
+The game finally went up on Steam in Oct. 2024. I started patching immediately and spent 2025 working on a graphics update and adding Steam achievements.
+
+Press enter or click to view image in full size
+
+Taking the game from UE4 to UE5 was worth the extra work I’d sworn to never do again, just for that lighting.
+That’s about three years spent on one game. I would do it again, happily, and I’m already working on the story for another game.
+
+Still, there were some things I wish I’d known about Steam itself. It takes a lot of time, and there is an endless sea of games on there already, with AAA and larger indies drowning just as much as the small stuff.
+
+Now, if you’re a fellow beginner dev reading this and wondering if it’s worth putting your game out at all:
+
+Yes, it totally is, whether that’s on Steam or Itch or even just your own site.
+
+With any creative endeavor, it’s reasonable and perhaps advisable to fail in private. But at a certain point, and you’ll know when, you have to get to the end of something.
+
+Finishing a game is part of the development cycle in itself. You’re going to learn much more from one shipped project versus three half-finished ones.
+
+That being said:
+
+Yeah, that was a lot of work for like $150.
+
+Publishing on Steam takes a lot of work, and Itch.io is good too
+
+The $100 Steam fee is not the real barrier of entry. The amount of work, copy, and assets needed to properly launch your game and store page is.
+
+Steamworks, the set of tools used to put games and store pages and so much more up on Steam, can get quite complicated as well. You’ll have to manage builds and branches to do anything, sort of like Git, but with its own quirks. The documentation is thorough and full of examples, but still, it’s a lot to read up on when you’re crunched.
+
+Itch.io is much easier, and free to put stuff up on. I had only used it as a place to share a master’s project before, so when we launched our demo, I treated it as pretty much just that. I set the default of Pay What You Want just on a whim, and I was surprised when lots of people chose to pay. I still add new builds on there now, and it’s just as quick.
+
+Itch pages are super flexible, allowing as little or as much design as you’d like to go up. They also boost game launches like Steam, so you’d be surprised how many people will try your game out if it’s PWYW on that first day. It’s a great way to get the game to people, and I’ve found the Itch community to be super understanding and supportive in general.
+
+Plus, Itch takes less of a cut than Steam. I’ve made less revenue on it, but that’s considering I put an eighth of the time into it compared to Steam, and I’ve kept more of it.
+
+Steam also has a payout minimum, which is adjustable, but itch just sends you just about any cash earned by default. That helped me buy some odds and ends I needed for testing without dipping into my own money.
+
+Of course, publishing on Steam carries much more weight. Part of that is because indie devs and people working in AAA alike know the amount of effort Steam requires. All those requirements and work mean your page and your game feel a lot more professional by the end too. People tend to take me more seriously when they find out I’ve published a game on Steam, and the work I did on this led directly to some freelance gigs afterwards.
+
+Itch also has way more stuff on there given that lower barrier to entry. You get drowned out even quicker and need more active marketing than on Steam to stay afloat.
+
+Regardless, if you’re a beginner dev with limited time and resources, I’d say start with itch.io. You can always take it to Steam later on.
+
+I probably would have made more money on itch had I given it the focus and work I put into Steam, and there’s no fee to start. The ideal is to have your game on both, anyways. There’s no rules against that for either platform, provided you’re not giving one service a cheaper rate than the other arbitrarily.
+
+For me, my only financial goal was to break even, which we exceeded, and deep down, I was focused on Steam out of a curiosity to see how it worked.
+
+If you feel the same way, then yeah, keep at it.
+
+What you’ll need (besides $100)
+
+Video editing software
+Design tools
+Screen recordings
+Around 200 words of marketing copy and technical specs
+A mostly finished game (let’s say 80% at least)
+To see an up-to-date and detailed list of everything that Steam requires on a Store page, see their docs. Everything I’ve written below is based off my experience with the platform in 2024-2025.
+
+After you’ve made your account and paid the fee, start with setting up your Store Page. That gives you a Coming Soon banner and a lot more, and you can switch back to fine-tuning your game once it’s done.
+
+You’re going to need a video of your game for Steam as a trailer, and this can’t be a cinematic. It needs to actually show what gameplay looks like, which is where the screen recording comes in. You’ll need to edit that video, of course, even if just for some simple cuts.
+
+Press enter or click to view image in full size
+
+You’re going to need to make at least 12 graphics, and they’re going to need to all be different dimensions. The largest image, your Library Hero, can be assembled in Steam provided you have the logo in already, but the rest will need to be made separately.
+
+The bulk of the copy-writing will be for descriptions, and you’ll want your final title by this point. You’ll also need to go through a handful of wizards, from accessibility to controller support, list some minimum and suggested machine specs, and add at least five tags.
+
+I used Adobe’s suite for all this at first, but it was way too costly.
+
+I’d recommend some open source options, such as Shutter Encoder, GIMP, and Darktable, or free(ish) proprietary ones such as Canva and Davinci Resolve. I like OBS Studio for screen recording, but even the Windows snipping tool can do one now.
+
+You paste in your descriptions from a doc, or write them in the visual editor on the Steamworks store section, which helpfully has spellcheck, word counters, and multiple preview modes.
+
+Whatever you wind up using, make sure to keep the original content, backups of what you make, and your editing files for the program itself.
+
+I put this part first because the more of this stuff you have already, the better, and what’s even more important is to keep track of everything in a way that lets you, and likely I do mean you, the reader, continue to edit it down the line.
+
+Even if you’re on a team, you don’t want to be chasing down assets or info from people who left the project forever ago, or stuck with outdated work.
+
+On that note,
+
+People will leave, and that’s okay
+
+On a professional project of any sort, it’s rare for every member of a team to be equally involved with every part of the process. I’ve learned that from filmmaking and found it applies to games as well.
+
+Some people will be heavily involved with concept art and not as much with building the actual characters or environment. Some people will be a pivotal part of development but not around for shipping. You get the point: people will come and go. Games require a degree of specialization, and not every section of the process will keep them around for that reason.
+
+Plus, it’s indie development. Everyone likely has a day job, maybe two. Freelancers have to pick up new work and take higher pay when they can to save up for dry spells. Students change their classes regularly.
+
+So, if you’re committed to publishing your project, and you’re the person who will be around for the whole cycle, don’t be surprised when people leave. Don’t get upset, unless they really did screw you over, but that’s separate to this point.
+
+Instead, plan for it. Learn a little bit of everything so you can patch holes where they’re left. Get your programmers to leave comments and consider working with them on some documentation for the more complex stuff.
+
+Get Joe Youorski’s stories in your inbox
+Join Medium for free to get updates from this writer.
+
+Enter your email
+Subscribe
+Watch the same tutorials they watch, and talk to them about what might make things harder or easier once implemented.
+
+You won’t be able to do everything yourself. But if you have a good team for even a short while, and you know enough to finish things up even if everyone has to bail, then you’ll be able to get the project to shipping yourself.
+
+Now, the less encouraging part: it will likely be difficult.
+
+Getting thrown into someone else’s code gives experienced programmers headaches, and it can make novices want to never touch a line again after adding that first bug.
+
+Matching an art style is difficult, and losing access to original files can make even small changes on a design asset impossible. Some writers have a dialogue style you just can’t imitate.
+
+In those cases, all you can do is keep trying or ask around for help. No matter what, you will get better at whatever it is you’re bad at.
+
+Test early, test widely, and still expect bugs after launch
+
+A dev told me recently something along the lines of, “If you think your game is finally ready to test, you should have had it tested earlier.” I’d say that’s true.
+
+Don’t be a perfectionist. You want people to try it at multiple points of development. They’ll show you bugs you never would have found, and most importantly, you can see what parts of your game are fun, and which aren’t.
+
+You’ll want to publish your game on Steam only when it’s been tested. Steam will not publish games that are clearly still in development, which can push your release back. You could put it out as a Playtest instead.
+
+Regardless, your goal should be to get as many different people to try it on as many different machines, because I was shocked with how many issues popped up once the game was on someone else’s computer.
+
+That’s not even accounting for UI issues or a lack of tutorials in areas you thought didn’t need it, which people will point out to you quickly.
+
+Press enter or click to view image in full size
+
+It’s easy to forget other people haven’t spent every day buried in this game, and accordingly ask things such as, “How do I close it?”
+In terms of hardware, you’ll definitely want to find a minimum spec before launch. Poke around at similar games and see what they have listed, and then see if you know anyone with a similar machine. Work laptops and the computers of your friends who don’t play games are great for this.
+
+Once your game is out, patching on Steam is easy with their build and branch management tools. Write good dev logs, and listen to player feedback to see what you need to do. Don’t get defensive.
+
+It’s a good reason to not burn out in the last days as well, because you’ll need that energy for this process. If you don’t have it already, add version control, even if just local Git, and make multiple backups, because in the last days, it’s easy to mess things up. You’re tired.
+
+Don’t forget to test your audio and input controls too
+
+Test your audio levels with multiple sets of headphones and speakers. Just because something sounds good on your development setup doesn’t mean it will for everyone, so test that out.
+
+People will give a lot of leeway to visual issues and even bugs, as both can sometimes come off as endearing in an indie game. But audio does not get that level of patience, ever.
+
+Nobody likes having their eardrums blown out when a game boots up, or an annoying, tinny frequency constantly ringing out. Too much silence is also offputting.
+
+If you need to fine-tune your sounds, Audacity is good, and lots of engines have built-in tools for that too.
+
+I’ll add that this might be an Unreal specific issue, but I found managing input focus on menus to be a nightmare when your game can use controller and keyboard alike.
+
+The documentation is going to be your friend here, but also forum posts. From my experience in UE, lots of people have had these problems, and lots of people have answered with their fixes.
+
+Remember inputs are hardware at the end of the day, and you might be doing everything right, but a port on your own machine is faulty or Bluetooth is proving finicky one day. Test things on multiple machines before cutting code immediately.
+
+Marketing is annoying but important
+
+Marketing is part of this process, even if it may not feel like it. I fully neglected this area, and I think a lot of creatives do.
+
+But think about it as a true end goal, not a business-y buzzword. How do you get people to see your game? There’s that big sea of stuff out there.
+
+It does pay off, even if it feels like it won’t. The more you do, the better your chances of people buying or trying your game. Simple as that. You don’t need money for this part, but it does help.
+
+The other option is time and a lot of video/photo editing. Either way, you’re probably going to need some design or editing software once again, and as with the Steam assets, you’re going to need a lot of material. Think about it early so you can grab stuff as you go.
+
+Back it all up, just like you would your game files. Marketing happens in waves, I’ve found, and you’ll often need to tweak things for a sale or push.
+
+Social media is an obvious place to start, but don’t dismiss IRL events. An in-person launch party if you live in a place where people might show up is worth the trouble, and it’s exciting to see people engage with your work.
+
+I would recommend having at least a demo available or your Steam page up before doing an event, though. We had a fantastic live performance from our composer when she finished the score in 2023, but hadn’t launched the Steam page yet, so we had no way to get wishlists.
+
+Still, such a cool experience.
+
+Get what you paid for on Steam
+
+Press enter or click to view image in full size
+
+An ad made with assets Steam sent devs for the 2025 Scream Sale.
+Once you’ve paid your application fee, there’s a lot Steam already has for you to use. Poke around, and budget in some time to try things out.
+
+Wishlists will be your best friend here. I read somewhere that about 10% of total wishlists turn to sales on Steam. I’d say that’s accurate in my experience. So, the earlier the marketing push, the more likely people will wishlist your game, which you want a lot of.
+
+However, it’s worth noting Steam will not help you with marketing in itself. You can’t pay Steam to promote your game, which is for the best, and its social elements are more geared towards players than creators.
+
+They will give you design assets for sales, you can stream from a page, and there’s a lot of stuff you can do with a homepage, but you’ll need to do your advertising elsewhere. New games get a helpful bit of focus from the marketplace, but it’s not going to be enough.
+
+Look at the various sales and events coming up in their calendar, and apply early if you think your game fits any of them. Once you’re accepted to one the first time, you’ll get into it each year. Consider launching in or around one if you fit the bill.
