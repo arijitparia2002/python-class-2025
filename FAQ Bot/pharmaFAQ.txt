@@ -1,0 +1,59 @@
+Q: What medicines do you offer?
+A: We offer a wide range of prescription and over-the-counter medicines including antibiotics, pain relievers, vitamins, allergy medications, and chronic disease management drugs. Our inventory includes medicines for fever, cold, allergies, diabetes, hypertension, heart disease, and many more. We also stock specialty medications, health supplements, and wellness products.
+
+Q: How do I place an order?
+A: You can place an order through our website or mobile app. Simply search for your medicine using the search bar, add it to cart, and proceed to checkout. You'll need to upload a valid prescription for prescription medicines. After adding your delivery address and payment details, confirm your order. You'll receive order confirmation via SMS and email immediately.
+
+Q: What is your delivery time?
+A: We deliver medicines within 24-48 hours in metro cities and 2-5 days in other areas. Same-day delivery is available in select metropolitan locations for orders placed before 12 PM. Once dispatched, you'll receive tracking information to monitor delivery in real-time. Our delivery partners work 7 days a week to ensure timely delivery.
+
+Q: Do you deliver on weekends and holidays?
+A: Yes, we deliver 7 days a week including weekends and most holidays. Our commitment is to ensure you never run out of essential medicines. Order tracking is available in real-time through our website and mobile app. During major holidays, delivery times might be slightly longer.
+
+Q: How much is the delivery charge?
+A: Delivery is free for orders above Rs. 500. For orders below Rs. 500, a nominal delivery charge of Rs. 50 applies. Bulk orders or subscription orders may have special delivery arrangements. We also offer free express delivery for premium members. Check delivery charges at checkout before confirming your order.
+
+Q: Can I return medicines?
+A: Unopened and undamaged medicines can be returned within 7 days of delivery for a full refund. The medicines must be in their original packaging with seals intact. Used or opened medicines cannot be returned due to safety regulations. To initiate a return, contact our support team with your order number and reason for return. Refunds are processed within 5-7 business days.
+
+Q: Do you require a prescription?
+A: Yes, for prescription medicines (antibiotics, steroids, controlled substances, etc.), we require a valid prescription from a registered medical practitioner. This is a legal requirement to ensure patient safety. Over-the-counter (OTC) medicines like pain relievers, vitamins, and wellness products can be purchased without prescription. Our pharmacists verify all prescriptions before processing orders.
+
+Q: How do I upload my prescription?
+A: During checkout, you'll find an option to upload your prescription. You can click a photo using your phone camera, upload from gallery, or use our app's built-in camera scanner for better quality. Accepted formats include JPG, PNG, and PDF. Make sure the prescription is clear, readable, and includes doctor's signature and registration number.
+
+Q: What payment methods do you accept?
+A: We accept credit cards (Visa, Mastercard, American Express), debit cards, UPI (Google Pay, PhonePe, Paytm), net banking from all major banks, digital wallets, and cash on delivery. All online transactions are secured with 256-bit SSL encryption. You can save your payment methods for faster checkout in future orders.
+
+Q: Is my payment information secure?
+A: Yes, absolutely. All transactions on our platform are encrypted with industry-standard SSL security protocols. We use PCI-DSS compliant payment gateways for maximum security. We never store your complete card details on our servers. Your payment information is processed securely through trusted payment partners like Razorpay and PayU.
+
+Q: Do you offer home delivery?
+A: Yes, we deliver all orders directly to your doorstep. Please provide your complete address with landmarks during checkout for accurate and safe delivery. Our delivery partners are trained to handle medicines with care. We offer contactless delivery options as well. You can also schedule delivery for a preferred time slot in select areas.
+
+Q: What if my order is damaged?
+A: If you receive damaged medicines or incorrect items, please do not accept the delivery. If already accepted, contact our customer support immediately with photos of the damaged product and packaging. We'll arrange for a free replacement to be sent to you at no additional cost. Quality and safety are our top priorities.
+
+Q: Can I track my order?
+A: Yes, you can track your order in real-time. Once dispatched, you'll receive a tracking link via SMS and email. You can also track by logging into your account on our website or mobile app and visiting 'My Orders' section. The tracking shows real-time updates including order confirmation, processing, dispatched, out for delivery, and delivered status.
+
+Q: Do you have a pharmacy helpline?
+A: Yes, our dedicated pharmacist helpline is available 24/7 at +91-9876543210. You can call, chat, or email your queries anytime. Our licensed pharmacists are available to answer questions about medicines, dosages, side effects, and drug interactions. You can also schedule a callback if you prefer. Email support is available at support@yourpharmahealthcare.com.
+
+Q: Can I get consultation from a pharmacist?
+A: Yes, we offer free consultation from licensed and experienced pharmacists. You can book a consultation slot through our app or website. Our pharmacists can help you understand your medicines, proper dosage, timing, potential side effects, and answer any health-related questions. Consultations are available via phone call, video call, or chat based on your preference.
+
+Q: Do you deliver to rural areas?
+A: We deliver to most areas across the country, including many rural locations. To check if we deliver to your area, simply enter your pincode on our website or app. If your area is serviceable, you'll see available delivery options and estimated delivery times. We're continuously expanding our delivery network to reach more locations.
+
+Q: How do I cancel an order?
+A: You can cancel an order within 30 minutes of placing it without any charges. Simply go to 'My Orders' section in your account and click the 'Cancel' button. After 30 minutes, cancellation depends on order status. If already dispatched, you'll need to refuse delivery or initiate a return. Refunds for cancelled orders are processed within 5-7 business days to your original payment method.
+
+Q: What if I ordered wrong medicine?
+A: If you've ordered the wrong medicine, contact our customer support immediately at +91-9876543210. If you contact us within 24 hours and the order hasn't been dispatched, we can modify or cancel the order and help you place a new correct order. There are no extra charges for such corrections. For dispatched orders, you may need to return the item and place a fresh order.
+
+Q: Do you offer medicines for chronic diseases?
+A: Yes, we have a special 'Chronic Care' program specifically designed for patients with long-term conditions like diabetes, hypertension, heart disease, asthma, thyroid disorders, and more. This program offers regular automatic refills, special discounts, medicine reminders, and priority customer support. You can enroll in this program through our app or website and manage your subscriptions easily.
+
+Q: How do I get discounts?
+A: There are several ways to save money on your orders. Use coupon codes available on our website and app homepage. Refer friends using your unique referral code and earn cashback on their first order. Subscribe to our newsletter for exclusive deals and early access to sales. Join our loyalty program to earn points on every purchase. First-time users get a special welcome discount.
